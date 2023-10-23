@@ -1,0 +1,20 @@
+﻿ComboClone
+1.0.0.0
+
+winexe
+C#
+.cs
+C:\Users\seque\OneDrive\바탕 화면\test\ComboClone\ComboClone\obj\Debug\net7.0-windows\
+ComboClone
+none
+false
+TRACE;DEBUG;NET;NET7_0;NETCOREAPP
+C:\Users\seque\OneDrive\바탕 화면\test\ComboClone\ComboClone\App.xaml
+20-1433049808
+
+46497983366
+200594926909
+DataTempletes.xaml;MainWindow.xaml;Styles.xaml;ViewModel\SA\MainMenu.xaml;ViewModel\SA\SubMeun.xaml;ViewModel\SA\View\ACLR.xaml;ViewModel\SA\View\ChannelPower.xaml;ViewModel\SA\View\OccupiedBW.xaml;ViewModel\SA\View\SEM.xaml;ViewModel\SA\View\SpuriousEmission.xaml;ViewModel\SA\View\SweptSA.xaml;ViewModel\SA\View\TransmitOnOFF.xaml;View\CableLossView.xaml;View\Calculator.xaml;View\Category.xaml;View\DTFView.xaml;View\LTE_5G_View.xaml;View\Modal.xaml;View\SaView.xaml;View\VSWRView.xaml;
+
+True
+

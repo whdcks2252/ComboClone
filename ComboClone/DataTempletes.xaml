@@ -1,0 +1,32 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:viewModel="clr-namespace:ComboClone.ViewModel"
+                    xmlns:view="clr-namespace:ComboClone.View">
+
+    <!--LTE_5G_View Page-->
+    <DataTemplate DataType="{x:Type viewModel:LTE_5G_ViewModel}">
+        <view:LTE_5G_View/>
+    </DataTemplate>
+    <!--SAView Page-->
+    <DataTemplate DataType="{x:Type viewModel:SAViewModel}">
+        <view:SaView/>
+    </DataTemplate>
+
+    <!--VSWR Page-->
+    <DataTemplate DataType="{x:Type viewModel:VSWRViewModel}">
+        <view:VSWRView/>
+    </DataTemplate>
+                  
+    <!--DTF Page-->
+    <DataTemplate DataType="{x:Type viewModel:DTFViewModel}">
+        <view:DTFView/>
+    </DataTemplate>
+    <!--CableLoss Page-->
+    
+    <DataTemplate DataType="{x:Type viewModel:CableLossViewModel}">
+        <view:CableLossView/>
+    </DataTemplate>
+
+
+
+</ResourceDictionary>
